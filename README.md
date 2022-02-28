@@ -16,3 +16,9 @@ The attributes give a percentage of the populations newborns and infants receivi
 Percentage of live births who received bacilli Calmette-Guerin (vaccine against tuberculosis); Percentage of surviving infants who received the first dose of DTP-containing vaccine, Percentage of surviving infants who received the third dose of DTP-containing vaccine, Percentage of surviving infants who received the third dose of hep B-containing vaccine.
 https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=AFG+ARM+AZE+BGD+BHR+BTN+BRN+KHM+CHN+CYP+GEO+IND+IDN+IRN+IRQ+ISR+JPN+JOR+KGZ+LBN+MYS+MDV+MNG+MMR+NPL+OMN+PAK+PHL+QAT+TLS+SAU+LKA+SYR+SGP+PSE+TUR+THA+TKM+TJK+ARE+UZB+VNM+YEM+LAO+KWT+KAZ.IM_BCG+IMMUNISATION+IM_DTP1+IM_DTP3+IM_HEPB3+IM_HEPBB+IM_HIB3+IM_IPV1+IM_MCV1+IM_MCV2+IM_PCV3+IM_POL3+IM_RCV1+IM_ROTAC+IM_YFV+IM_PAB+IM_HPV..&startPeriod=2010&endPeriod=2020&lastnobservations=1 
 Note: this dataset has not yet been connected to the other two, other the geographical relationship.
+
+
+### Updates 2/28/2022: 
+For project.ipynb- we have replaced missing values for columns "GDP" and "Population" with the mean of the values presented in these columns. Deleted five columns not needed for this project. 
+For Vaccines.ipynb- we created the csv as a dataframe, detemine missing values, and deleted three columns. 
+For Project(4).ipynb- no new tasks. 

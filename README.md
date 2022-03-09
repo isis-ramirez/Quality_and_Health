@@ -1,6 +1,7 @@
 # Quality_and_Health
 Compose of multiple datasets to predict the risk of diabetes, effects on income, and vaccination.
 ## First dataset:
+Found in Asian Diabetes Prevention Initiative. The dataset includes National Prevalence of Diabetes in Asian Countries. We have edited the dataset and it now includes same countries as the other dataset so it is fully compatible and ready for use. 
 https://asiandiabetesprevention.org/what-is-diabetes/facts-and-figures
 
 ## Second dataset:

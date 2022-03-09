@@ -1,9 +1,8 @@
 # Quality_and_Health
 Compose of multiple datasets to predict the risk of diabetes, effects on income, and vaccination.
 ## First dataset:
-Found in Kaggle under the name of “Early-Stage Diabetes Risk Prediction Dataset”. 
-Attribute information: Age 1.20-65, Sex (Male, Female), the symptoms are answer by yes and no: Polyuria, Polydipsia, sudden weight loss, weakness, Polyphagia, Genital thrush, visual blurring, Itching, Irritability, delayed healing, partial paresis, muscle stiffness, Alopecia, Obesity. The target attribute Class (Positive, Negative).
-https://www.kaggle.com/ishandutta/early-stage-diabetes-risk-prediction-dataset 
+https://asiandiabetesprevention.org/what-is-diabetes/facts-and-figures
+
 ## Second dataset:
 Found in Kaggle under the name of “Life Expectancy (WHO)”.
 It is divided by Countries, years (2000-2015), status, life expectancy, adult mortality, infant deaths, alcohol, percentage expenditure, hepatitis B, measles, BMI, under-five deaths, polio, total expenditure, diphtheria, HIV/AIDS, GDP, population, Thinness 1-19 years, thinness 5-9 years, income composition of resource, schooling.
